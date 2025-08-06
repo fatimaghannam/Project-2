@@ -1,0 +1,78 @@
+html{
+    background-color:#FCE5B3;
+}
+header img{
+    position:static;
+    height:100px;
+}
+#facebooklogo{
+    float:right;
+    height:90px;
+}
+#instalogo{
+    float:right;
+    height:90px;
+}
+h1{
+    color: brown;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px;
+    background-color:beige;
+}
+div>img{
+    height:150px;
+    width:300px;
+    margin-left: 300px;
+
+}
+#chickenR{
+    font-size:25px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:brown;
+    font-weight: bold;
+    margin-left:365px;
+}
+#chickenB{
+    font-size:25px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:brown;
+    font-weight: bold;
+    margin-left:365px;
+}
+#nameofBatata{
+    margin-left:365px;
+    font-size:25px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:brown;
+    font-weight: bold;
+    
+}
+#batataContainer{
+    position:absolute;
+    margin-left:500px;
+}
+#SteakContainer{
+    position:absolute;
+    margin-left:550px;
+    margin-top:200px;
+    
+}
+#ModifyS{
+    height:200px;
+    width:200px;
+}
+span{
+    font-size:25px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:brown;
+    font-weight: bold;
+    margin-left:280px;
+}
+footer{
+    background-color:beige;
+    color:brown;
+    font-size:20px;
+    text-align:center;
+    font-weight:bold;
+}
